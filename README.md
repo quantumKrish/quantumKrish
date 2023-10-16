@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Krish
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantumKrish&show_icons=true&locale=en&layout=compact" alt="smdomi" /></p>
-- 🌱 I’m currently learning Java
 - 📫 You can reach me through my email kirishanth290@gmail.com
 
 <!---
